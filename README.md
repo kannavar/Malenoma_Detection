@@ -1,8 +1,5 @@
-# Melanoma_Detection
+# Project Name : Melanoma_Detection
 Malenoma Skin Cancer Detection using Deep Learning Networks
-
-# Project Name
-> Outline a brief description of your project.
 
 
 ## Table of Contents
